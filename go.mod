@@ -11,7 +11,7 @@ require (
 	github.com/caarlos0/env/v6 v6.0.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cheggaaa/pb/v3 v3.0.3
-	github.com/docker/docker v1.4.2-0.20190924003213-a8608b5b67c7
+	github.com/docker/docker v1.6.1
 	github.com/docker/go-connections v0.4.0
 	github.com/golang/protobuf v1.4.2
 	github.com/google/go-containerregistry v0.0.0-20200331213917-3d03ed9b1ca2
