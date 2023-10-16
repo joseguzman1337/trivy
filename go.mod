@@ -29,8 +29,8 @@ require (
 	github.com/aws/aws-sdk-go v1.45.25
 	github.com/aws/aws-sdk-go-v2 v1.21.2
 	github.com/aws/aws-sdk-go-v2/config v1.18.45
-	github.com/aws/aws-sdk-go-v2/service/sts v1.23.2
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.125.0
+	github.com/aws/aws-sdk-go-v2/service/sts v1.23.2
 	github.com/bmatcuk/doublestar v1.3.4
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cheggaaa/pb/v3 v3.1.4
@@ -96,7 +96,7 @@ require (
 	go.etcd.io/bbolt v1.3.7
 	go.uber.org/zap v1.26.0
 	golang.org/x/exp v0.0.0-20230522175609-2e198f4a06a1
-	golang.org/x/mod v0.12.0
+	golang.org/x/mod v0.13.0
 	golang.org/x/sync v0.4.0
 	golang.org/x/term v0.13.0
 	golang.org/x/text v0.13.0
