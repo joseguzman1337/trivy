@@ -28,13 +28,13 @@ require (
 	github.com/aquasecurity/trivy-kubernetes v0.5.8
 	github.com/aws/aws-sdk-go v1.46.3
 	github.com/aws/aws-sdk-go-v2 v1.21.2
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.127.0
 	github.com/aws/aws-sdk-go-v2/config v1.19.1
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.127.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.23.2
 	github.com/bmatcuk/doublestar v1.3.4
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cheggaaa/pb/v3 v3.1.4
-	github.com/containerd/containerd v1.7.7
+	github.com/containerd/containerd v1.7.8
 	github.com/docker/docker v24.0.6+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/fatih/color v1.15.0
