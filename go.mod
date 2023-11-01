@@ -27,7 +27,7 @@ require (
 	github.com/aquasecurity/trivy-java-db v0.0.0-20230209231723-7cddb1406728
 	github.com/aquasecurity/trivy-kubernetes v0.5.8
 	github.com/aws/aws-sdk-go v1.46.7
-	github.com/aws/aws-sdk-go-v2 v1.21.2
+	github.com/aws/aws-sdk-go-v2 v1.22.0
 	github.com/aws/aws-sdk-go-v2/config v1.19.1
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.128.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.23.2
@@ -193,7 +193,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.15.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.17.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/workspaces v1.23.0 // indirect
-	github.com/aws/smithy-go v1.15.0 // indirect
+	github.com/aws/smithy-go v1.16.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bmatcuk/doublestar/v4 v4.6.0 // indirect
