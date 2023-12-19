@@ -28,8 +28,8 @@ require (
 	github.com/aquasecurity/trivy-kubernetes v0.5.8
 	github.com/aws/aws-sdk-go v1.49.5
 	github.com/aws/aws-sdk-go-v2 v1.24.0
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.141.0
 	github.com/aws/aws-sdk-go-v2/config v1.26.1
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.141.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.26.5
 	github.com/bmatcuk/doublestar v1.3.4
 	github.com/cenkalti/backoff v2.2.1+incompatible
@@ -85,7 +85,7 @@ require (
 	github.com/spf13/cast v1.6.0
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
-	github.com/spf13/viper v1.18.1
+	github.com/spf13/viper v1.18.2
 	github.com/stretchr/testify v1.8.4
 	github.com/testcontainers/testcontainers-go v0.26.0
 	github.com/testcontainers/testcontainers-go/modules/localstack v0.26.0
