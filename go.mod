@@ -27,9 +27,9 @@ require (
 	github.com/aquasecurity/trivy-java-db v0.0.0-20230209231723-7cddb1406728
 	github.com/aquasecurity/trivy-kubernetes v0.6.0
 	github.com/aws/aws-sdk-go v1.49.13
-	github.com/aws/aws-sdk-go-v2 v1.24.0
+	github.com/aws/aws-sdk-go-v2 v1.24.1
 	github.com/aws/aws-sdk-go-v2/config v1.26.2
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.142.0
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.142.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.26.6
 	github.com/bmatcuk/doublestar v1.3.4
 	github.com/cenkalti/backoff v2.2.1+incompatible
@@ -88,8 +88,8 @@ require (
 	github.com/spf13/viper v1.18.2
 	github.com/stretchr/testify v1.8.4
 	github.com/testcontainers/testcontainers-go v0.27.0
-	github.com/tetratelabs/wazero v1.6.0
 	github.com/testcontainers/testcontainers-go/modules/localstack v0.27.0
+	github.com/tetratelabs/wazero v1.6.0
 	github.com/twitchtv/twirp v8.1.3+incompatible
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/xlab/treeprint v1.2.0
@@ -147,8 +147,8 @@ require (
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.5.3 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.16.13 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.14.10 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/configsources v1.2.9 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.5.9 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/configsources v1.2.10 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.5.10 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.7.2 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.2.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/accessanalyzer v1.16.0 // indirect
@@ -175,7 +175,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.10.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.2.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.7.23 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.10.9 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.10.10 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.16.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/kafka v1.19.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.15.19 // indirect
