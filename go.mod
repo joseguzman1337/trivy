@@ -36,7 +36,7 @@ require (
 	github.com/cheggaaa/pb/v3 v3.1.4
 	github.com/containerd/containerd v1.7.11
 	github.com/docker/docker v24.0.7+incompatible
-	github.com/docker/go-connections v0.4.0
+	github.com/docker/go-connections v0.5.0
 	github.com/fatih/color v1.16.0
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/go-openapi/runtime v0.26.2
@@ -200,7 +200,7 @@ require (
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/chai2010/gettext-go v1.0.2 // indirect
-	github.com/cloudflare/circl v1.3.3 // indirect
+	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/containerd/cgroups v1.1.0 // indirect
 	github.com/containerd/continuity v0.4.2 // indirect
 	github.com/containerd/fifo v1.1.0 // indirect
