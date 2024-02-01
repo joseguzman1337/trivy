@@ -9,11 +9,16 @@ jobs:
     name: Scan Go vulnerabilities
     runs-on: ubuntu-latest
     steps:
+      - name: Harden Runner
+        uses: step-security/harden-runner@63c24ba6bd7ba022e95695ff85de572c04a18142 # v2.7.0
+        with:
+          egress-policy: audit
+
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
 
       - name: Run Trivy vulnerability scanner and create GitHub issues
-        uses: knqyf263/trivy-issue-action@v0.0.5
+        uses: knqyf263/trivy-issue-action@1f302edf55bcedd0a55b2896e9ba4d184a94aa8c # v0.0.5
         with:
           assignee: knqyf263
           severity: CRITICAL
