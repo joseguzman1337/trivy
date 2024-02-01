@@ -4,9 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.7.1"
   },
   "devDependencies": {
-    "promise": "^8.0.3"
+    "promise": "^8.3.0"
   }
 }
