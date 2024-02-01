@@ -25,6 +25,6 @@ pyyaml-env-tag==0.1
 six==1.16.0
 termcolor==1.1.0
 verspec==0.1.0
-watchdog==2.1.7
+watchdog==3.0.0
 zipp==3.8.0
 
