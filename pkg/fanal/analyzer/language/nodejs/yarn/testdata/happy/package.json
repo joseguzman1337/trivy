@@ -8,6 +8,6 @@
     "scheduler": "0.23.0"
   },
   "devDependencies": {
-    "prop-types": "15.7.2"
+    "prop-types": "15.8.1"
   }
 }
