@@ -13,3 +13,213 @@ updates:
     directory: /
     schedule:
       interval: daily
+
+  - package-ecosystem: docker
+    directory: /docs/build
+    schedule:
+      interval: daily
+
+  - package-ecosystem: pip
+    directory: /docs/build
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /integration/testdata/fixtures/repo/custom-policy
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /integration/testdata/fixtures/repo/dockerfile
+    schedule:
+      interval: daily
+
+  - package-ecosystem: gomod
+    directory: /integration/testdata/fixtures/repo/gomod
+    schedule:
+      interval: daily
+
+  - package-ecosystem: gomod
+    directory: /integration/testdata/fixtures/repo/gomod/submod
+    schedule:
+      interval: daily
+
+  - package-ecosystem: gomod
+    directory: /integration/testdata/fixtures/repo/gomod/submod2
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /integration/testdata/fixtures/repo/namespace-exception
+    schedule:
+      interval: daily
+
+  - package-ecosystem: pip
+    directory: /integration/testdata/fixtures/repo/pip
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /integration/testdata/fixtures/repo/rule-exception
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /integration/testdata/fixtures/repo/yarn
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /pkg/fanal/analyzer/config/testdata/src
+    schedule:
+      interval: daily
+
+  - package-ecosystem: gomod
+    directory: /pkg/fanal/analyzer/language/golang/mod/testdata/pkg/mod/github.com/aquasecurity/go-dep-parser@v0.0.0-20220406074731-71021a481237
+    schedule:
+      interval: daily
+
+  - package-ecosystem: gomod
+    directory: /pkg/fanal/analyzer/language/golang/mod/testdata/pkg/mod/github.com/aquasecurity/go-dep-parser@v0.0.0-20230219131432-590b1dfb6edd
+    schedule:
+      interval: daily
+
+  - package-ecosystem: gomod
+    directory: /pkg/fanal/analyzer/language/golang/mod/testdata/pkg/mod/github.com/sad/sad@v0.0.1
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /pkg/fanal/analyzer/language/nodejs/pkg/testdata
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /pkg/fanal/analyzer/language/nodejs/yarn/testdata/happy
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /pkg/fanal/analyzer/language/nodejs/yarn/testdata/monorepo/c
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /pkg/fanal/analyzer/language/nodejs/yarn/testdata/monorepo
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /pkg/fanal/analyzer/language/nodejs/yarn/testdata/monorepo/packages/package1
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /pkg/fanal/analyzer/language/nodejs/yarn/testdata/monorepo/packages/package2
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /pkg/fanal/analyzer/language/nodejs/yarn/testdata/monorepo/packages/utils/util1
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /pkg/fanal/analyzer/language/nodejs/yarn/testdata/no-packagejson
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /pkg/fanal/analyzer/language/nodejs/yarn/testdata/unsupported_protocol
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    directory: /pkg/fanal/analyzer/language/nodejs/yarn/testdata/wrong-packagejson
+    schedule:
+      interval: daily
+
+  - package-ecosystem: pip
+    directory: /pkg/fanal/analyzer/language/python/pip/testdata
+    schedule:
+      interval: daily
+
+  - package-ecosystem: cargo
+    directory: /pkg/fanal/analyzer/language/rust/cargo/testdata/happy
+    schedule:
+      interval: daily
+
+  - package-ecosystem: cargo
+    directory: /pkg/fanal/analyzer/language/rust/cargo/testdata/no-cargo-toml
+    schedule:
+      interval: daily
+
+  - package-ecosystem: cargo
+    directory: /pkg/fanal/analyzer/language/rust/cargo/testdata/sad
+    schedule:
+      interval: daily
+
+  - package-ecosystem: cargo
+    directory: /pkg/fanal/analyzer/language/rust/cargo/testdata/toml-only-workspace-deps
+    schedule:
+      interval: daily
+
+  - package-ecosystem: cargo
+    directory: /pkg/fanal/analyzer/language/rust/cargo/testdata/wrong-cargo-toml
+    schedule:
+      interval: daily
+
+  - package-ecosystem: bundler
+    directory: /pkg/fanal/analyzer/testdata/app
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /pkg/fanal/artifact/local/testdata/misconfig/dockerfile/multiple-failures/src
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /pkg/fanal/artifact/local/testdata/misconfig/dockerfile/passed/src
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /pkg/fanal/artifact/local/testdata/misconfig/dockerfile/single-failure/src
+    schedule:
+      interval: daily
+
+  - package-ecosystem: pip
+    directory: /pkg/fanal/artifact/local/testdata
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /pkg/fanal/external/testdata/allow
+    schedule:
+      interval: daily
+
+  - package-ecosystem: docker
+    directory: /pkg/fanal/external/testdata/deny
+    schedule:
+      interval: daily
+
+  - package-ecosystem: maven
+    directory: /integration/testdata/fixtures/repo/pom
+    schedule:
+      interval: daily
+
+  - package-ecosystem: maven
+    directory: /pkg/fanal/analyzer/language/java/pom/testdata/broken
+    schedule:
+      interval: daily
+
+  - package-ecosystem: maven
+    directory: /pkg/fanal/analyzer/language/java/pom/testdata/happy
+    schedule:
+      interval: daily
+
+  - package-ecosystem: maven
+    directory: /pkg/fanal/analyzer/language/java/pom/testdata/requirements
+    schedule:
+      interval: daily
