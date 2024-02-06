@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "js-tokens": "^8.0.2",
+    "js-tokens": "^8.0.3",
     "scheduler": "0.23.0"
   },
   "devDependencies": {
