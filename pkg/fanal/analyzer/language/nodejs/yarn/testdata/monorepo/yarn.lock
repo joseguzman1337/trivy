@@ -43,10 +43,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"js-tokens@npm:^8.0.3":
-  version: 8.0.3
-  resolution: "js-tokens@npm:8.0.3"
-  checksum: b749c808290ec1932fdf5486412074c64da6f48387a89d58f00e84058db89a7707f62d2a066fd673030dd6776bf656b50f6e0fa34135f9b3cacccde39a508977
+"js-tokens@npm:^9.0.0":
+  version: 9.0.0
+  resolution: "js-tokens@npm:9.0.0"
+  checksum: 427d0db681caab0c906cfc78a0235bbe7b41712cee83f3f14785c1de079a1b1a85693cc8f99a3f71685d0d76acaa5b9c8920850b67f93d3eeb7ef186987d186c
   languageName: node
   linkType: hard
 
@@ -124,7 +124,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "util1@workspace:packages/utils/util1"
   dependencies:
-    js-tokens: ^8.0.3
+    js-tokens: ^9.0.0
     prop-types: ^15.8.1
   languageName: unknown
   linkType: soft
