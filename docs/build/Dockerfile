@@ -1,4 +1,4 @@
-FROM squidfunk/mkdocs-material:9.5.11@sha256:49d1bfdaf457c5ac20a93ff59a5b57b762ace5606fc564ac2e195abf315f14ee
+FROM squidfunk/mkdocs-material:9.5.12@sha256:7be068b884750631488cd29cff0101a234971dfd7473276d050736b1cd1dac35
 
 ## If you want to see exactly the same version as is published to GitHub pages
 ## use a private image for insiders, which requires authentication.
