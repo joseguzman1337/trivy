@@ -54,7 +54,7 @@ jobs:
         if: matrix.operating-system == 'ubuntu-latest'
 
       - name: Install tools
-        uses: aquaproj/aqua-installer@7c7338067bdb97d5bea2acc82b5870afca470d18 # v2.3.0
+        uses: aquaproj/aqua-installer@baef45299b36669c0015d0d8bc630272c3493e78 # v2.3.1
         with:
           aqua_version: v1.25.0
           aqua_opts: ""
@@ -89,7 +89,7 @@ jobs:
           go-version-file: go.mod
 
       - name: Install tools
-        uses: aquaproj/aqua-installer@7c7338067bdb97d5bea2acc82b5870afca470d18 # v2.3.0
+        uses: aquaproj/aqua-installer@baef45299b36669c0015d0d8bc630272c3493e78 # v2.3.1
         with:
           aqua_version: v1.25.0
 
@@ -114,7 +114,7 @@ jobs:
           go-version-file: go.mod
 
       - name: Install tools
-        uses: aquaproj/aqua-installer@7c7338067bdb97d5bea2acc82b5870afca470d18 # v2.3.0
+        uses: aquaproj/aqua-installer@baef45299b36669c0015d0d8bc630272c3493e78 # v2.3.1
         with:
           aqua_version: v1.25.0
 
@@ -139,7 +139,7 @@ jobs:
           go-version-file: go.mod
 
       - name: Install tools
-        uses: aquaproj/aqua-installer@7c7338067bdb97d5bea2acc82b5870afca470d18 # v2.3.0
+        uses: aquaproj/aqua-installer@baef45299b36669c0015d0d8bc630272c3493e78 # v2.3.1
         with:
           aqua_version: v1.25.0
 
@@ -165,7 +165,7 @@ jobs:
         with:
           go-version-file: go.mod
       - name: Install tools
-        uses: aquaproj/aqua-installer@7c7338067bdb97d5bea2acc82b5870afca470d18 # v2.3.0
+        uses: aquaproj/aqua-installer@baef45299b36669c0015d0d8bc630272c3493e78 # v2.3.1
         with:
           aqua_version: v1.25.0
       - name: Run vm integration tests
