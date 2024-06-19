@@ -12,7 +12,7 @@ require (
 	github.com/GoogleCloudPlatform/docker-credential-gcr v2.0.5+incompatible
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/NYTimes/gziphandler v1.1.1
-	github.com/alicebob/miniredis/v2 v2.32.1
+	github.com/alicebob/miniredis/v2 v2.33.0
 	github.com/aquasecurity/bolt-fixtures v0.0.0-20200903104109-d34e7f983986
 	github.com/aquasecurity/go-gem-version v0.0.0-20201115065557-8eed6fe000ce
 	github.com/aquasecurity/go-npm-version v0.0.0-20201110091526-0b796d180798
