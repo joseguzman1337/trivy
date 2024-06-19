@@ -106,7 +106,7 @@ require (
 	go.etcd.io/bbolt v1.3.9
 	go.uber.org/zap v1.27.0
 	golang.org/x/exp v0.0.0-20240222234643-814bf88cf225
-	golang.org/x/mod v0.16.0
+	golang.org/x/mod v0.17.0
 	golang.org/x/net v0.24.0
 	golang.org/x/sync v0.6.0
 	golang.org/x/term v0.19.0
@@ -126,7 +126,7 @@ require (
 	github.com/aws/smithy-go v1.20.2
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/go-version v1.6.0
-	github.com/hashicorp/hc-install v0.6.4
+	github.com/hashicorp/hc-install v0.7.0
 	github.com/hashicorp/hcl/v2 v2.19.1
 	github.com/hashicorp/terraform-exec v0.20.0
 	github.com/liamg/iamgo v0.0.9
