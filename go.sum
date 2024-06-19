@@ -1637,10 +1637,10 @@ github.com/tchap/go-patricia/v2 v2.3.1 h1:6rQp39lgIYZ+MHmdEq4xzuk1t7OdC35z/xm0BG
 github.com/tchap/go-patricia/v2 v2.3.1/go.mod h1:VZRHKAb53DLaG+nA9EaYYiaEx6YztwDlLElMsnSHD4k=
 github.com/terminalstatic/go-xsd-validate v0.1.5 h1:RqpJnf6HGE2CB/lZB1A8BYguk8uRtcvYAPLCF15qguo=
 github.com/terminalstatic/go-xsd-validate v0.1.5/go.mod h1:18lsvYFofBflqCrvo1umpABZ99+GneNTw2kEEc8UPJw=
-github.com/testcontainers/testcontainers-go v0.30.0 h1:jmn/XS22q4YRrcMwWg0pAwlClzs/abopbsBzrepyc4E=
-github.com/testcontainers/testcontainers-go v0.30.0/go.mod h1:K+kHNGiM5zjklKjgTtcrEetF3uhWbMUyqAQoyoh8Pf0=
-github.com/testcontainers/testcontainers-go/modules/localstack v0.30.0 h1:2Q+ZB3QVUQSrP/nSlgZJFg45aXAHgtCW37Dkph42zHI=
-github.com/testcontainers/testcontainers-go/modules/localstack v0.30.0/go.mod h1:UWzBQnm1RgDuKJ9InMUbCfWlRtg2MkDuDDaizKm5VTc=
+github.com/testcontainers/testcontainers-go v0.31.0 h1:W0VwIhcEVhRflwL9as3dhY6jXjVCA27AkmbnZ+UTh3U=
+github.com/testcontainers/testcontainers-go v0.31.0/go.mod h1:D2lAoA0zUFiSY+eAflqK5mcUx/A5hrrORaEQrd0SefI=
+github.com/testcontainers/testcontainers-go/modules/localstack v0.31.0 h1:pPz0J5Gbu7eAirpWP7QDT/v3s0zpNb/sNA8Ww/rjkoQ=
+github.com/testcontainers/testcontainers-go/modules/localstack v0.31.0/go.mod h1:vqOXktUtHpTte9ilzE5enoUO8wt4FYDpZ3ARIAp28PM=
 github.com/tetratelabs/wazero v1.7.0 h1:jg5qPydno59wqjpGrHph81lbtHzTrWzwwtD4cD88+hQ=
 github.com/tetratelabs/wazero v1.7.0/go.mod h1:ytl6Zuh20R/eROuyDaGPkp82O9C/DJfXAwJfQ3X6/7Y=
 github.com/tklauser/go-sysconf v0.3.12/go.mod h1:Ho14jnntGE1fpdOqQEEaiKRpvIavV0hSfmBq8nJbHYI=
