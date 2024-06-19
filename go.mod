@@ -1,7 +1,7 @@
 module github.com/aquasecurity/trivy
 
 go 1.21
-toolchain go1.22.3
+toolchain go1.22.4
 
 require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
@@ -137,7 +137,7 @@ require (
 	github.com/zclconf/go-cty v1.14.1
 	github.com/zclconf/go-cty-yaml v1.0.3
 	golang.org/x/crypto v0.22.0
-	helm.sh/helm/v3 v3.14.3
+	helm.sh/helm/v3 v3.15.2
 )
 
 require (
@@ -411,15 +411,15 @@ require (
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	k8s.io/apiextensions-apiserver v0.29.0 // indirect
+	k8s.io/apiextensions-apiserver v0.30.0 // indirect
 	k8s.io/apimachinery v0.30.1 // indirect
-	k8s.io/apiserver v0.29.0 // indirect
-	k8s.io/cli-runtime v0.29.3 // indirect
-	k8s.io/client-go v0.29.3 // indirect
-	k8s.io/component-base v0.29.3 // indirect
+	k8s.io/apiserver v0.30.0 // indirect
+	k8s.io/cli-runtime v0.30.0 // indirect
+	k8s.io/client-go v0.30.0 // indirect
+	k8s.io/component-base v0.30.0 // indirect
 	k8s.io/klog/v2 v2.120.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20240228011516-70dd3763d340 // indirect
-	k8s.io/kubectl v0.29.3 // indirect
+	k8s.io/kubectl v0.30.0 // indirect
 	lukechampine.com/uint128 v1.2.0 // indirect
 	modernc.org/cc/v3 v3.40.0 // indirect
 	modernc.org/ccgo/v3 v3.16.13 // indirect
