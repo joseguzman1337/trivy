@@ -5,8 +5,8 @@ toolchain go1.22.4
 
 require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
-	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.11.0
-	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.5.2
+	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.11.1
+	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.6.0
 	github.com/BurntSushi/toml v1.3.2
 	github.com/CycloneDX/cyclonedx-go v0.8.0
 	github.com/GoogleCloudPlatform/docker-credential-gcr v2.0.5+incompatible
@@ -56,7 +56,7 @@ require (
 	github.com/google/wire v0.6.0
 	github.com/hashicorp/go-getter v1.7.4
 	github.com/hashicorp/go-multierror v1.1.1
-	github.com/hashicorp/go-retryablehttp v0.7.5
+	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/in-toto/in-toto-golang v0.9.0
 	github.com/knqyf263/go-apk-version v0.0.0-20200609155635-041fdbb8563f
@@ -108,10 +108,10 @@ require (
 	go.uber.org/zap v1.27.0
 	golang.org/x/exp v0.0.0-20240222234643-814bf88cf225
 	golang.org/x/mod v0.18.0
-	golang.org/x/net v0.24.0
-	golang.org/x/sync v0.6.0
-	golang.org/x/term v0.19.0
-	golang.org/x/text v0.14.0
+	golang.org/x/net v0.26.0
+	golang.org/x/sync v0.7.0
+	golang.org/x/term v0.21.0
+	golang.org/x/text v0.16.0
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2
 	google.golang.org/protobuf v1.34.1
 	gopkg.in/yaml.v3 v3.0.1
@@ -136,7 +136,7 @@ require (
 	github.com/owenrumney/squealer v1.2.2
 	github.com/zclconf/go-cty v1.14.1
 	github.com/zclconf/go-cty-yaml v1.0.3
-	golang.org/x/crypto v0.22.0
+	golang.org/x/crypto v0.24.0
 	helm.sh/helm/v3 v3.15.2
 )
 
@@ -149,7 +149,7 @@ require (
 	dario.cat/mergo v1.0.0 // indirect
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20230811130428-ced1acdcaa24 // indirect
 	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20230306123547-8075edf89bb0 // indirect
-	github.com/Azure/azure-sdk-for-go/sdk/internal v1.5.2 // indirect
+	github.com/Azure/azure-sdk-for-go/sdk/internal v1.8.0 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161 // indirect
 	github.com/Azure/go-autorest v14.2.0+incompatible // indirect
 	github.com/Azure/go-autorest/autorest v0.11.29 // indirect
@@ -397,9 +397,9 @@ require (
 	go.starlark.net v0.0.0-20230525235612-a134d8f9ddca // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/oauth2 v0.17.0 // indirect
-	golang.org/x/sys v0.19.0 // indirect
+	golang.org/x/sys v0.21.0 // indirect
 	golang.org/x/time v0.5.0 // indirect
-	golang.org/x/tools v0.19.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/api v0.162.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
 	google.golang.org/genproto v0.0.0-20240227224415-6ceb2ff114de // indirect
