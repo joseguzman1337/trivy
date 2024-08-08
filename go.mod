@@ -8,7 +8,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.11.1
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.6.0
 	github.com/BurntSushi/toml v1.3.2
-	github.com/CycloneDX/cyclonedx-go v0.8.0
+	github.com/CycloneDX/cyclonedx-go v0.9.0
 	github.com/GoogleCloudPlatform/docker-credential-gcr v2.0.5+incompatible
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/NYTimes/gziphandler v1.1.1
@@ -38,10 +38,10 @@ require (
 	github.com/bitnami/go-version v0.0.0-20231130084017-bb00604d650c
 	github.com/bmatcuk/doublestar/v4 v4.6.1
 	github.com/cenkalti/backoff v2.2.1+incompatible
-	github.com/cheggaaa/pb/v3 v3.1.4
+	github.com/cheggaaa/pb/v3 v3.1.5
 	github.com/containerd/containerd v1.7.18
 	github.com/csaf-poc/csaf_distribution/v3 v3.0.0
-	github.com/docker/docker v27.0.3+incompatible
+	github.com/docker/docker v27.1.0+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/fatih/color v1.16.0
 	github.com/go-git/go-git/v5 v5.12.0
@@ -86,7 +86,7 @@ require (
 	github.com/owenrumney/go-sarif/v2 v2.3.1
 	github.com/package-url/packageurl-go v0.1.2
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
-	github.com/samber/lo v1.39.0
+	github.com/samber/lo v1.46.0
 	github.com/saracen/walker v0.1.4
 	github.com/secure-systems-lab/go-securesystemslib v0.8.0
 	github.com/sigstore/rekor v1.2.2
@@ -100,7 +100,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/testcontainers/testcontainers-go v0.31.0
 	github.com/testcontainers/testcontainers-go/modules/localstack v0.31.0
-	github.com/tetratelabs/wazero v1.7.0
+	github.com/tetratelabs/wazero v1.7.3
 	github.com/twitchtv/twirp v8.1.2+incompatible
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/xlab/treeprint v1.2.0
@@ -110,12 +110,12 @@ require (
 	golang.org/x/mod v0.18.0
 	golang.org/x/net v0.26.0
 	golang.org/x/sync v0.7.0
-	golang.org/x/term v0.21.0
+	golang.org/x/term v0.22.0
 	golang.org/x/text v0.16.0
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
 	google.golang.org/protobuf v1.34.2
 	gopkg.in/yaml.v3 v3.0.1
-	k8s.io/api v0.30.2
+	k8s.io/api v0.30.3
 	k8s.io/utils v0.0.0-20231127182322-b307cd553661
 	modernc.org/sqlite v1.31.1
 )
@@ -234,6 +234,7 @@ require (
 	github.com/containerd/errdefs v0.1.0 // indirect
 	github.com/containerd/fifo v1.1.0 // indirect
 	github.com/containerd/log v0.1.0 // indirect
+	github.com/containerd/platforms v0.2.1 // indirect
 	github.com/containerd/stargz-snapshotter/estargz v0.15.1 // indirect
 	github.com/containerd/ttrpc v1.2.4 // indirect
 	github.com/containerd/typeurl/v2 v2.1.1 // indirect
@@ -320,7 +321,7 @@ require (
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
-	github.com/mattn/go-runewidth v0.0.14 // indirect
+	github.com/mattn/go-runewidth v0.0.15 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
@@ -412,7 +413,7 @@ require (
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	k8s.io/apiextensions-apiserver v0.30.0 // indirect
-	k8s.io/apimachinery v0.30.2 // indirect
+	k8s.io/apimachinery v0.30.3 // indirect
 	k8s.io/apiserver v0.30.0 // indirect
 	k8s.io/cli-runtime v0.30.0 // indirect
 	k8s.io/client-go v0.30.0 // indirect
