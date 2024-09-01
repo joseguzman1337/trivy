@@ -7,7 +7,7 @@ require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.11.1
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.6.0
-	github.com/BurntSushi/toml v1.3.2
+	github.com/BurntSushi/toml v1.4.0
 	github.com/CycloneDX/cyclonedx-go v0.9.0
 	github.com/GoogleCloudPlatform/docker-credential-gcr v2.0.5+incompatible
 	github.com/Masterminds/sprig/v3 v3.3.0
@@ -22,7 +22,7 @@ require (
 	github.com/aquasecurity/table v1.8.0
 	github.com/aquasecurity/testdocker v0.0.0-20230111101738-e741bda259da
 	github.com/aquasecurity/tml v0.6.1
-	github.com/aquasecurity/trivy-aws v0.8.0
+	github.com/aquasecurity/trivy-aws v0.14.1
 	github.com/aquasecurity/trivy-db v0.0.0-20231005141211-4fc651f7ac8d
 	github.com/aquasecurity/trivy-java-db v0.0.0-20240109071736-184bd7481d48
 	github.com/aquasecurity/trivy-kubernetes v0.6.6
@@ -31,8 +31,8 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.27.31
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.30
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.16
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.155.1
-	github.com/aws/aws-sdk-go-v2/service/ecr v1.24.6
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.161.3
+	github.com/aws/aws-sdk-go-v2/service/ecr v1.28.2
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.61.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.30.5
 	github.com/bitnami/go-version v0.0.0-20231130084017-bb00604d650c
@@ -43,7 +43,7 @@ require (
 	github.com/csaf-poc/csaf_distribution/v3 v3.0.0
 	github.com/docker/docker v27.2.0+incompatible
 	github.com/docker/go-connections v0.5.0
-	github.com/fatih/color v1.16.0
+	github.com/fatih/color v1.17.0
 	github.com/go-git/go-git/v5 v5.12.0
 	github.com/go-openapi/runtime v0.28.0
 	github.com/go-openapi/strfmt v0.23.0
@@ -84,7 +84,7 @@ require (
 	github.com/opencontainers/image-spec v1.1.0
 	github.com/openvex/go-vex v0.2.5
 	github.com/owenrumney/go-sarif/v2 v2.3.1
-	github.com/package-url/packageurl-go v0.1.2
+	github.com/package-url/packageurl-go v0.1.3
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
 	github.com/samber/lo v1.47.0
 	github.com/saracen/walker v0.1.4
@@ -92,7 +92,7 @@ require (
 	github.com/sigstore/rekor v1.3.6
 	github.com/sirupsen/logrus v1.9.3
 	github.com/sosedoff/gitkit v0.4.0
-	github.com/spdx/tools-golang v0.5.4-0.20231108154018-0c0f394b5e1a // v0.5.3 with necessary changes. Can be upgraded to version 0.5.4 after release.
+	github.com/spdx/tools-golang v0.5.4 // v0.5.3 with necessary changes. Can be upgraded to version 0.5.4 after release.
 	github.com/spf13/cast v1.7.0
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/pflag v1.0.5
@@ -175,7 +175,7 @@ require (
 	github.com/antchfx/xpath v1.3.0 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
-	github.com/aws/aws-sdk-go v1.51.16 // indirect
+	github.com/aws/aws-sdk-go v1.53.0 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.4 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.12 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.16 // indirect
@@ -186,12 +186,12 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/apigateway v1.21.6 // indirect
 	github.com/aws/aws-sdk-go-v2/service/apigatewayv2 v1.18.6 // indirect
 	github.com/aws/aws-sdk-go-v2/service/athena v1.37.3 // indirect
-	github.com/aws/aws-sdk-go-v2/service/cloudfront v1.32.5 // indirect
+	github.com/aws/aws-sdk-go-v2/service/cloudfront v1.36.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/cloudtrail v1.35.6 // indirect
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.32.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/cloudwatchlogs v1.30.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/codebuild v1.26.5 // indirect
-	github.com/aws/aws-sdk-go-v2/service/docdb v1.33.1 // indirect
+	github.com/aws/aws-sdk-go-v2/service/docdb v1.34.4 // indirect
 	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.26.8 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ebs v1.21.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ecs v1.35.6 // indirect
@@ -209,7 +209,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.17.16 // indirect
 	github.com/aws/aws-sdk-go-v2/service/kafka v1.28.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.24.6 // indirect
-	github.com/aws/aws-sdk-go-v2/service/kms v1.30.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/kms v1.32.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/lambda v1.49.6 // indirect
 	github.com/aws/aws-sdk-go-v2/service/mq v1.20.6 // indirect
 	github.com/aws/aws-sdk-go-v2/service/neptune v1.28.1 // indirect
