@@ -1420,8 +1420,8 @@ github.com/openvex/go-vex v0.2.5/go.mod h1:j+oadBxSUELkrKh4NfNb+BPo77U3q7gdKME88
 github.com/owenrumney/go-sarif v1.1.1/go.mod h1:dNDiPlF04ESR/6fHlPyq7gHKmrM0sHUvAGjsoh8ZH0U=
 github.com/owenrumney/go-sarif/v2 v2.3.1 h1:77opmuqxQZE1UF6TylFz5XllVEI72WijgwpwNw4JTmY=
 github.com/owenrumney/go-sarif/v2 v2.3.1/go.mod h1:MSqMMx9WqlBSY7pXoOZWgEsVB4FDNfhcaXDA1j6Sr+w=
-github.com/owenrumney/squealer v1.2.2 h1:zsnZSwkWi8Y2lgwmg77b565vlHQovlvBrSBzmAs3oiE=
-github.com/owenrumney/squealer v1.2.2/go.mod h1:pDCW33bWJ2kDOuz7+2BSXDgY38qusVX0MtjPCSFtdSo=
+github.com/owenrumney/squealer v1.2.4 h1:77CEDP10mgvFLWHzUIBTfFIj9RkJ5h36YQhZ48GtjsQ=
+github.com/owenrumney/squealer v1.2.4/go.mod h1:F3PF/UaTAzaexT/cvvMYCSRHLRPBCiUcPClz3SZ6618=
 github.com/package-url/packageurl-go v0.1.2 h1:0H2DQt6DHd/NeRlVwW4EZ4oEI6Bn40XlNPRqegcxuo4=
 github.com/package-url/packageurl-go v0.1.2/go.mod h1:uQd4a7Rh3ZsVg5j0lNyAfyxIeGde9yrlhjF78GzeW0c=
 github.com/pascaldekloe/goe v0.0.0-20180627143212-57f6aae5913c/go.mod h1:lzWF7FIEvWOWxwDKqyGYQf6ZUaNfKdP144TG7ZOy1lc=
