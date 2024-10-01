@@ -117,7 +117,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.30.3
 	k8s.io/utils v0.0.0-20231127182322-b307cd553661
-	modernc.org/sqlite v1.31.1
+	modernc.org/sqlite v1.33.1
 )
 
 require (
