@@ -134,7 +134,7 @@ require (
 	github.com/liamg/memoryfs v1.6.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/owenrumney/squealer v1.2.4
-	github.com/zclconf/go-cty v1.15.0
+	github.com/zclconf/go-cty v1.15.1
 	github.com/zclconf/go-cty-yaml v1.1.0
 	golang.org/x/crypto v0.27.0
 	helm.sh/helm/v3 v3.16.2
