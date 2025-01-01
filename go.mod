@@ -108,7 +108,7 @@ require (
 	go.uber.org/zap v1.27.0
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0
 	golang.org/x/mod v0.21.0
-	golang.org/x/net v0.31.0
+	golang.org/x/net v0.33.0
 	golang.org/x/sync v0.10.0
 	golang.org/x/term v0.27.0
 	golang.org/x/text v0.21.0
@@ -122,7 +122,7 @@ require (
 
 require (
 	github.com/alecthomas/chroma v0.10.0
-	github.com/antchfx/htmlquery v1.3.3
+	github.com/antchfx/htmlquery v1.3.4
 	github.com/apparentlymart/go-cidr v1.1.0
 	github.com/aws/smithy-go v1.22.1
 	github.com/hashicorp/go-uuid v1.0.3
@@ -172,7 +172,7 @@ require (
 	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/alicebob/gopher-json v0.0.0-20200520072559-a9ecdc9d1d3a // indirect
 	github.com/anchore/go-struct-converter v0.0.0-20221118182256-c68fdcfa2092 // indirect
-	github.com/antchfx/xpath v1.3.2 // indirect
+	github.com/antchfx/xpath v1.3.3 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/aws/aws-sdk-go v1.55.5 // indirect
