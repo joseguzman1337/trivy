@@ -113,7 +113,7 @@ require (
 	golang.org/x/term v0.27.0
 	golang.org/x/text v0.21.0
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
-	google.golang.org/protobuf v1.35.1
+	google.golang.org/protobuf v1.36.1
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.31.2
 	k8s.io/utils v0.0.0-20240711033017-18e509b52bc8
