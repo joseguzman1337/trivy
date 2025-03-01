@@ -124,7 +124,7 @@ require (
 	github.com/alecthomas/chroma v0.10.0
 	github.com/antchfx/htmlquery v1.3.4
 	github.com/apparentlymart/go-cidr v1.1.0
-	github.com/aws/smithy-go v1.22.2
+	github.com/aws/smithy-go v1.22.3
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/go-version v1.7.0
 	github.com/hashicorp/hc-install v0.9.0
