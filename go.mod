@@ -34,7 +34,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.195.0
 	github.com/aws/aws-sdk-go-v2/service/ecr v1.42.0
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.2
-	github.com/aws/aws-sdk-go-v2/service/sts v1.33.12
+	github.com/aws/aws-sdk-go-v2/service/sts v1.33.16
 	github.com/bitnami/go-version v0.0.0-20231130084017-bb00604d650c
 	github.com/bmatcuk/doublestar/v4 v4.7.1
 	github.com/cenkalti/backoff v2.2.1+incompatible
@@ -202,10 +202,10 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/elasticsearchservice v1.32.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/emr v1.47.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/iam v1.38.2 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.2 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.3 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.5 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.6 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.12 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.15 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.12 // indirect
 	github.com/aws/aws-sdk-go-v2/service/kafka v1.38.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.7 // indirect
