@@ -31,7 +31,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.17.57
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.195.0
 	github.com/aws/aws-sdk-go-v2/service/ecr v1.42.0
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.75.2
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.78.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.33.16
 	github.com/bitnami/go-version v0.0.0-20231130084017-bb00604d650c
 	github.com/bmatcuk/doublestar/v4 v4.7.1
@@ -173,12 +173,12 @@ require (
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/aws/aws-sdk-go v1.55.6 // indirect
-	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.8 // indirect
+	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.10 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.16.27 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.34 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.34 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.2 // indirect
-	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.31 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.34 // indirect
 	github.com/aws/aws-sdk-go-v2/service/accessanalyzer v1.36.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/apigateway v1.28.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/apigatewayv2 v1.24.7 // indirect
@@ -200,10 +200,10 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/emr v1.47.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/iam v1.38.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.12.3 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.5.5 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.6.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.10.6 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.12.15 // indirect
-	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.12 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.18.15 // indirect
 	github.com/aws/aws-sdk-go-v2/service/kafka v1.38.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.32.7 // indirect
 	github.com/aws/aws-sdk-go-v2/service/kms v1.37.7 // indirect
