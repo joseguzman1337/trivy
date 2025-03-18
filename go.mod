@@ -1,7 +1,7 @@
 module github.com/aquasecurity/trivy
 
 go 1.21
-toolchain go1.23.7
+toolchain go1.24.1
 
 require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
@@ -39,7 +39,7 @@ require (
 	github.com/bmatcuk/doublestar/v4 v4.7.1
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/cheggaaa/pb/v3 v3.1.6
-	github.com/containerd/containerd v1.7.26
+	github.com/containerd/containerd v1.7.27
 	github.com/csaf-poc/csaf_distribution/v3 v3.0.0
 	github.com/docker/docker v27.5.1+incompatible
 	github.com/docker/go-connections v0.5.0
