@@ -1,6 +1,8 @@
 module github.com/aquasecurity/trivy
 
 go 1.21
+toolchain go1.24.1
+
 require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
 	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.17.1
@@ -135,7 +137,7 @@ require (
 	github.com/zclconf/go-cty v1.16.2
 	github.com/zclconf/go-cty-yaml v1.1.0
 	golang.org/x/crypto v0.36.0
-	helm.sh/helm/v3 v3.17.2
+	helm.sh/helm/v3 v3.17.3
 )
 
 require (
