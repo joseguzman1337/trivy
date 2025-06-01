@@ -1,6 +1,7 @@
 module github.com/aquasecurity/trivy
 
-go 1.21
+go 1.24.0
+
 toolchain go1.24.1
 
 require (
@@ -133,7 +134,7 @@ require (
 	github.com/liamg/iamgo v0.0.9
 	github.com/liamg/memoryfs v1.6.0
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/owenrumney/squealer v1.2.4
+	github.com/owenrumney/squealer v1.2.11
 	github.com/zclconf/go-cty v1.16.2
 	github.com/zclconf/go-cty-yaml v1.1.0
 	golang.org/x/crypto v0.37.0
@@ -424,7 +425,6 @@ require (
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
 	k8s.io/apiextensions-apiserver v0.32.2 // indirect
 	k8s.io/apimachinery v0.33.0 // indirect
 	k8s.io/apiserver v0.32.2 // indirect
