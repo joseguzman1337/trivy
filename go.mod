@@ -1,6 +1,7 @@
 module github.com/aquasecurity/trivy
 
-go 1.21
+go 1.24.0
+
 toolchain go1.24.1
 
 require (
@@ -19,7 +20,7 @@ require (
 	github.com/aquasecurity/go-pep440-version v0.0.0-20210121094942-22b2f8951d46
 	github.com/aquasecurity/go-version v0.0.1
 	github.com/aquasecurity/loading v0.0.5
-	github.com/aquasecurity/table v1.9.0
+	github.com/aquasecurity/table v1.10.0
 	github.com/aquasecurity/testdocker v0.0.0-20230111101738-e741bda259da
 	github.com/aquasecurity/tml v0.6.1
 	github.com/aquasecurity/trivy-aws v0.15.1
