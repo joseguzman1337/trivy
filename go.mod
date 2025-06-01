@@ -1,6 +1,7 @@
 module github.com/aquasecurity/trivy
 
-go 1.21
+go 1.24.0
+
 toolchain go1.24.1
 
 require (
@@ -100,7 +101,7 @@ require (
 	github.com/stretchr/testify v1.10.0
 	github.com/testcontainers/testcontainers-go v0.37.0
 	github.com/testcontainers/testcontainers-go/modules/localstack v0.35.0
-	github.com/tetratelabs/wazero v1.8.2
+	github.com/tetratelabs/wazero v1.9.0
 	github.com/twitchtv/twirp v8.1.3+incompatible
 	github.com/xeipuuv/gojsonschema v1.2.0
 	github.com/xlab/treeprint v1.2.0
