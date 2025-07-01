@@ -42,7 +42,7 @@ require (
 	github.com/cheggaaa/pb/v3 v3.1.7
 	github.com/containerd/containerd v1.7.27
 	github.com/csaf-poc/csaf_distribution/v3 v3.0.0
-	github.com/docker/docker v28.1.1+incompatible
+	github.com/docker/docker v28.3.0+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/fatih/color v1.18.0
 	github.com/go-git/go-git/v5 v5.16.0
