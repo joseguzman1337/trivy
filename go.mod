@@ -137,7 +137,7 @@ require (
 	github.com/owenrumney/squealer v1.2.11
 	github.com/zclconf/go-cty v1.16.3
 	github.com/zclconf/go-cty-yaml v1.1.0
-	golang.org/x/crypto v0.38.0
+	golang.org/x/crypto v0.39.0
 	helm.sh/helm/v3 v3.17.3
 )
 
