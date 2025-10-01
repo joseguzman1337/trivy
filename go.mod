@@ -81,7 +81,7 @@ require (
 	github.com/open-policy-agent/opa v1.6.0
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.1
-	github.com/openvex/go-vex v0.2.5
+	github.com/openvex/go-vex v0.2.7
 	github.com/owenrumney/go-sarif/v2 v2.3.3
 	github.com/package-url/packageurl-go v0.1.3
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
@@ -96,7 +96,7 @@ require (
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/pflag v1.0.7
 	github.com/spf13/viper v1.20.1
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/testcontainers/testcontainers-go v0.37.0
 	github.com/testcontainers/testcontainers-go/modules/localstack v0.37.0
 	github.com/tetratelabs/wazero v1.9.0
