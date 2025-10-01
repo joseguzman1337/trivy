@@ -108,7 +108,7 @@ require (
 	golang.org/x/exp v0.0.0-20250408133849-7e4ce0ab07d0
 	golang.org/x/mod v0.26.0
 	golang.org/x/net v0.41.0
-	golang.org/x/sync v0.16.0
+	golang.org/x/sync v0.17.0
 	golang.org/x/term v0.33.0
 	golang.org/x/text v0.27.0
 	golang.org/x/xerrors v0.0.0-20240716161551-93cc26a95ae9
