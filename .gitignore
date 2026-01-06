@@ -8,34 +8,27 @@
 
 ## chart release
 .cr-release-packages
-
 # Test binary, build with `go test -c`
 *.test
-
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
-
 .idea
 .vscode
-
 # Directory Cache Files
 .DS_Store
 thumbs.db
-
 # test fixtures
 coverage.txt
 integration/testdata/fixtures/images
 integration/testdata/fixtures/vm-images
-
 # SBOMs generated during CI
 /bom.json
-
 # goreleaser output
 dist
-
 # WebAssembly
 *.wasm
-
 # Signing
 gpg.key
 cmd/trivy/trivy
+# macOS system files
+._*
