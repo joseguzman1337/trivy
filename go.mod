@@ -41,7 +41,7 @@ require (
 	github.com/containerd/containerd v1.7.29
 	github.com/csaf-poc/csaf_distribution/v3 v3.0.0
 	github.com/docker/docker v28.5.2+incompatible
-	github.com/docker/go-connections v0.5.0
+	github.com/docker/go-connections v0.6.0
 	github.com/fatih/color v1.18.0
 	github.com/go-git/go-git/v5 v5.16.2
 	github.com/go-openapi/runtime v0.29.2
@@ -96,7 +96,7 @@ require (
 	github.com/spf13/pflag v1.0.10
 	github.com/spf13/viper v1.21.0
 	github.com/stretchr/testify v1.11.1
-	github.com/testcontainers/testcontainers-go v0.37.0
+	github.com/testcontainers/testcontainers-go v0.40.0
 	github.com/testcontainers/testcontainers-go/modules/localstack v0.37.0
 	github.com/tetratelabs/wazero v1.9.0
 	github.com/twitchtv/twirp v8.1.3+incompatible
@@ -148,7 +148,7 @@ require (
 	cloud.google.com/go/monitoring v1.24.3 // indirect
 	cloud.google.com/go/storage v1.56.0 // indirect
 	cyphar.com/go-pathrs v0.2.1 // indirect
-	dario.cat/mergo v1.0.1 // indirect
+	dario.cat/mergo v1.0.2 // indirect
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20240806141605-e8a1dd7889d6 // indirect
 	github.com/AdamKorcz/go-118-fuzz-build v0.0.0-20231105174938-2b5cbb29f3e2 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v1.11.2 // indirect
@@ -260,7 +260,7 @@ require (
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dsnet/compress v0.0.2-0.20230904184137-39efe44ab707 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
-	github.com/ebitengine/purego v0.8.2 // indirect
+	github.com/ebitengine/purego v0.8.4 // indirect
 	github.com/emicklei/go-restful/v3 v3.12.2 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/envoyproxy/go-control-plane/envoy v1.35.0 // indirect
@@ -386,7 +386,7 @@ require (
 	github.com/santhosh-tekuri/jsonschema/v6 v6.0.2 // indirect
 	github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3 // indirect
 	github.com/shibumi/go-pathspec v1.3.0 // indirect
-	github.com/shirou/gopsutil/v4 v4.25.1 // indirect
+	github.com/shirou/gopsutil/v4 v4.25.6 // indirect
 	github.com/shopspring/decimal v1.4.0 // indirect
 	github.com/skeema/knownhosts v1.3.1 // indirect
 	github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8 // indirect
