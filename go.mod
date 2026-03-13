@@ -86,7 +86,7 @@ require (
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
 	github.com/samber/lo v1.51.0
 	github.com/saracen/walker v0.1.4
-	github.com/secure-systems-lab/go-securesystemslib v0.9.1
+	github.com/secure-systems-lab/go-securesystemslib v0.10.0
 	github.com/sigstore/rekor v1.5.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/sosedoff/gitkit v0.4.0
