@@ -131,7 +131,7 @@ require (
 	github.com/liamg/iamgo v0.0.9
 	github.com/liamg/memoryfs v1.6.0
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/owenrumney/squealer v1.2.11
+	github.com/owenrumney/squealer v1.2.12
 	github.com/zclconf/go-cty v1.16.3
 	github.com/zclconf/go-cty-yaml v1.1.0
 	golang.org/x/crypto v0.49.0
