@@ -107,9 +107,9 @@ require (
 	golang.org/x/exp v0.0.0-20250911091902-df9299821621
 	golang.org/x/mod v0.33.0
 	golang.org/x/net v0.51.0
-	golang.org/x/sync v0.19.0
+	golang.org/x/sync v0.20.0
 	golang.org/x/term v0.41.0
-	golang.org/x/text v0.34.0
+	golang.org/x/text v0.35.0
 	golang.org/x/xerrors v0.0.0-20240716161551-93cc26a95ae9
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/yaml.v3 v3.0.1
@@ -134,7 +134,7 @@ require (
 	github.com/owenrumney/squealer v1.2.11
 	github.com/zclconf/go-cty v1.16.3
 	github.com/zclconf/go-cty-yaml v1.1.0
-	golang.org/x/crypto v0.48.0
+	golang.org/x/crypto v0.49.0
 	helm.sh/helm/v3 v3.19.0
 )
 
@@ -425,7 +425,7 @@ require (
 	golang.org/x/oauth2 v0.34.0 // indirect
 	golang.org/x/sys v0.42.0 // indirect
 	golang.org/x/time v0.14.0 // indirect
-	golang.org/x/tools v0.41.0 // indirect
+	golang.org/x/tools v0.42.0 // indirect
 	google.golang.org/api v0.260.0 // indirect
 	google.golang.org/genproto v0.0.0-20251202230838-ff82c1b0f217 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20260128011058-8636f8732409 // indirect
