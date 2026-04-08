@@ -91,7 +91,7 @@ jobs:
           echo "$GPG_KEY" > gpg.key
 
       - name: GoReleaser
-        uses: goreleaser/goreleaser-action@v6
+        uses: goreleaser/goreleaser-action@v7
         with:
           version: v1.20.0
           args: release -f=${{ inputs.goreleaser_config}} ${{ inputs.goreleaser_options}}
