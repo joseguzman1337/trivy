@@ -1,2 +1,0 @@
-securityContext:
-  runAsUser: 0
